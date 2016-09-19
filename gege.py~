@@ -1,0 +1,11 @@
+#!/usr/bin/env python
+# coding: utf-8
+import commands
+import random
+
+f = open('voice.txt','w')
+
+prob_10_overn = 20
+
+f.write('こんにちは\n')
+
