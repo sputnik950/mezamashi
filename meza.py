@@ -59,3 +59,8 @@ check = commands.getoutput("aplay /home/pi/voice/voice.wav")
 time.sleep(10)
 check = commands.getoutput("aplay /home/pi/voice/voice.wav")
 
+
+
+# Comitt to Github 2016/09/19
+
+
